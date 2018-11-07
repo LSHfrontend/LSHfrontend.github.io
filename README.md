@@ -1,2 +1,2 @@
-# My-Works-Site
+# lshfrontend.github.io
 Сайт, свёрстанный по тестовому макету "YES School"
