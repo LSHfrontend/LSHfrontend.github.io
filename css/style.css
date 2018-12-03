@@ -854,7 +854,7 @@ a {
     background-image: url("../img/label-2@2x.png");
   }
   .features__item:nth-child(2) .features__title-wrapper::before {
-    background-image: url("../img/card-3@2x.png");
+    background-image: url("../img/card-3@2x.jpg");
   }
   .features__item:nth-child(2) .features__title-wrapper::after {
     background-image: url("../img/shadow-card-3@2x.png");
