@@ -1,1 +1,0 @@
-"use strict";!function(){let t=!!window.MSInputMethodContext&&!!document.documentMode,e=window.devicePixelRatio>1;t&&e&&document.addEventListener("DOMContentLoaded",function(){let t=document.getElementsByTagName("img");for(let e=0;e<t.length;e++){let n=t[e].getAttribute("src"),i=n.slice(n.indexOf(".")),d=n.substring(0,n.indexOf("."))+"@2x"+i;t[e].setAttribute("src",d)}},!1)}();
