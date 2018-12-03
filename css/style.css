@@ -839,10 +839,10 @@ a {
     background-image: url("../img/label-1@2x.png");
   }
   .features__item:first-child .features__title-wrapper::before {
-    background-image: url("../img/card-1@2x.png");
+    background-image: url("../img/card-1@2x.jpg");
   }
   .features__item:first-child .features__title-wrapper::after {
-    background-image: url("../img/card-2@2x.png");
+    background-image: url("../img/card-2@2x.jpg");
   }
   .features__item:first-child .features__title::after {
     background-image: url("../img/shadow-cards@2x.png");
