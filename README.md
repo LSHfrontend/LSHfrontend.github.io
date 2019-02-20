@@ -1,2 +1,2 @@
 # LSHfrontend.github.io
-Сайт, свёрстанный по тестовому макету "Artactive"
+Мой личный сайт "LSH Frontend"
