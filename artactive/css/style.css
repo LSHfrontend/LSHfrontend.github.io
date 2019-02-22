@@ -1210,6 +1210,7 @@ a:active {
   background-image: url("../img/bg-about-us-mobile.png");
   background-position: 11px 0;
   background-repeat: no-repeat;
+  background-size: 277px 637px;
 }
 .about-us__item {
   position: relative;
@@ -1267,6 +1268,7 @@ a:active {
   .about-us__list {
     background-image: url("../img/bg-about-us-tablet.png");
     background-position: 21px 0;
+    background-size: 666px 405px;
   }
   .about-us__item:first-child {
     min-height: 98px;
@@ -1317,6 +1319,7 @@ a:active {
     width: 535px;
     background-image: url("../img/bg-about-us-desktop.png");
     background-position: 20px 0;
+    background-size: 486px 436px;
   }
   .about-us__item:first-child {
     min-height: 140px;
@@ -1338,12 +1341,12 @@ a:active {
 }
 @media (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 750px), (min-resolution: 144dpi) and (min-width: 750px), (min-resolution: 1.5dppx) and (min-width: 750px) {
   .about-us__list {
-    background-image: url("../img/bg-about-us@2x-mobile.png");
+    background-image: url("../img/bg-about-us@2x-tablet.png");
   }
 }
 @media (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1170px), (min-resolution: 144dpi) and (min-width: 1170px), (min-resolution: 1.5dppx) and (min-width: 1170px) {
   .about-us__list {
-    background-image: url("../img/bg-about-us@2x-mobile.png");
+    background-image: url("../img/bg-about-us@2x-desktop.png");
   }
 }
 .services__heading {
